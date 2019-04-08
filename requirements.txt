@@ -1,0 +1,3 @@
+# Charm-Crypto==0.50
+cryptography==2.*
+murmurhash3==2.*
